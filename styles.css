@@ -217,7 +217,7 @@ button {
 .logo-mark {
   display: grid;
   place-items: center;
-  width: 36px;
+  width: 39px;
   height: 36px;
   background: var(--c-blue);
   border-radius: var(--radius-sm);
@@ -229,7 +229,7 @@ button {
 }
 
 .logo-text {
-  font-size: 0.90rem;
+  font-size: 0.85rem;
   color: var(--c-gray-400);
 }
 
